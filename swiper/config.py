@@ -3,13 +3,13 @@
 REWIND_TIMES = 3
 
 
-# 云资讯短信平台配置
+# 云之讯短信平台配置
 YZX_SMS_API = 'https://open.ucpaas.com/ol/sms/sendsms'
 YZX_SMS_PARAMS = {
-    "sid": 'e749e99071ee277991c27cf9eb62fc8d',
-    "token": 'bdcacd327c23b7c6a55adf2955e93c43',
-    "appid": '081502fffccd4313bdf6369d36802fd0',
-    "templateid": "421727",
+    "sid": '5c6494b8c4a05b13e4950d4fcc9f49b3',
+    "token": '0003c03249202dedb99cd38ceca6bc0b',
+    "appid": 'f783770ec2fc4483bf77c29ddd0cc947',
+    "templateid": "422457",
     "param": None,
     "mobile": None,
 }
@@ -17,6 +17,6 @@ YZX_SMS_PARAMS = {
 
 # 七牛云配置
 QN_URL_PREFIX = 'http://pld16xicl.bkt.clouddn.com'
-QN_ACCESS_KEY = 'kEM0sRR-meB92XU43_a6xZqhiyyTuu5yreGCbFtw'
-QN_SECRET_KEY = 'QxTKqgnOb_UVldphU261qu9IdzmjkgGHh6GQVPPy'
+QN_ACCESS_KEY = 'eyW38sH1QyyCIrcCfIGejoMEIBbHhvSUnb7P5ODs'
+QN_SECRET_KEY = 'nnEvVF-XNRJ_wBLZrPvChFQIHKlk5x5umV9CJhi0'
 QN_BUCKET = 'bj1813'

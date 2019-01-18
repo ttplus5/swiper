@@ -101,8 +101,12 @@ CACHES = {
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'TT',
+        'USER':'root',
+        'PASSWORD':'sry123',
+        'HOST':'39.106.97.242',
+        'PORT':3306
     }
 }
 
